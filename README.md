@@ -152,3 +152,24 @@ sql-hospital-data-analysis/
     ├── Q08-average-length-of-stay-by-department.png
     ├── Q09-department-lowest-patient-count.png
     └── Q10-monthly-medical-expenses.png
+
+
+🧩 Skills Demonstrated
+SQL Query Development
+PostgreSQL
+Data Aggregation
+Data Analysis
+Date-Based Analysis
+Business Question Analysis
+Healthcare Data Analysis
+Query Optimization Basics
+Business Insight Generation
+Data-Driven Decision Making
+
+👨‍💻 Author
+
+Rohith Gowda
+
+Data Analyst | Power BI | SQL | Python | Excel
+
+📍 Bengaluru, Karnataka, India
