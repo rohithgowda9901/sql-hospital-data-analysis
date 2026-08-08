@@ -153,22 +153,26 @@ sql-hospital-data-analysis/
     ├── Q09-department-lowest-patient-count.png
     └── Q10-monthly-medical-expenses.png
 
+---
 
-🧩 Skills Demonstrated
-SQL Query Development
-PostgreSQL
-Data Aggregation
-Data Analysis
-Date-Based Analysis
-Business Question Analysis
-Healthcare Data Analysis
-Query Optimization Basics
-Business Insight Generation
-Data-Driven Decision Making
+## 🧩 Skills Demonstrated
 
-👨‍💻 Author
+- SQL Query Development
+- PostgreSQL
+- Data Aggregation
+- Data Analysis
+- Date-Based Analysis
+- Business Question Analysis
+- Healthcare Data Analysis
+- Data Filtering & Sorting
+- Business Insight Generation
+- Data-Driven Decision Making
 
-Rohith Gowda
+---
+
+## 👨‍💻 Author
+
+**Rohith Gowda**
 
 Data Analyst | Power BI | SQL | Python | Excel
 
